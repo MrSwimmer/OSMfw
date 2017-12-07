@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OSMfw</string>
+    <string name="osm_fix">Нажмите, чтобы зафиксировать пульс и встаньте</string>
+    <string name="osm_wait">Ожидание результата...</string>
+</resources>
